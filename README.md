@@ -17,14 +17,10 @@ I've had the opportunity to apply my skills through internships at Scotiabank, E
 <h2 align="center">✨ Languages and Tools ✨  </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript" alt =   "Javascript">
-  
-   
-  
-          
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript" alt =   "Javascript">       
+  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/C-black?style=flat&logo=c" alt="C++">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" alt="CSS3">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
