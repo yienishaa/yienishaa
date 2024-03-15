@@ -17,7 +17,7 @@ I've had the opportunity to apply my skills through internships at Scotiabank, E
 <h2 align="center">✨ Languages and Tools ✨  </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt =   "Javascript">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript" alt =   "Javascript">
   
    
   
