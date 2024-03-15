@@ -14,7 +14,7 @@
 I've had the opportunity to apply my skills through internships at Scotiabank, Etisalat and 23e2, where I honed my ability to work in dynamic teams, adapt to new technologies, and deliver high-quality solutions within deadlines.
   </p>
 
-<h2 align="center">✨ Languages and Tools ✨  </h2>
+<h2 align="center"> Languages and Tools   </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript" alt =   "Javascript">       
@@ -26,13 +26,15 @@ I've had the opportunity to apply my skills through internships at Scotiabank, E
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-white?style=flat&logo=microsoftsqlserver&logoColor=CC2927" alt="mssql">
   <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=4479A1"   alt="mysql">
   <img src="https://img.shields.io/badge/PHP-black?style=flat&logo=php&logoColor=777BB4" alt="php">
-  
+  <img src="https://img.shields.io/badge/XAMP-black?style=flat&logo=xampp&logoColor=FB7A24" alt="php">
+  <img src="https://img.shields.io/badge/Google%20Ads-black?style=flat&logo=googleads&logoColor=4285F4" alt="ads">
+  <img src="https://img.shields.io/badge/Google%20My%20Business-black?logo=googlemybusiness&logoColor=4285F4" alt="gmb">
 </p>
 
-<h2 align="center">✨ Contact ME ✨  </h2>
+<h2 align="center"> Contact ME   </h2>
 <p align="center">
   
-  <a href="mailto: yienisha.abeyratne@gmail.com">
+  <a href="mailto:yienisha.abeyratne@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
   <a href="https://www.linkedin.com/in/yienisha-abeyratne/">
