@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width = "1000">
+  <img src="domenico-loia-hGV2TfOh0ns-unsplash.jpg" width = "1000">
 </p>
 
 <h2 align="center"> Hi, my name is Yienisha Abeyratne   </h2>
