@@ -4,9 +4,21 @@
 
 <h2 align="center"> Hi, my name is Yienisha Abeyratne   </h2>
 
-<p align="center">
-  Currently pursuing my Bachelor's in Computer Science at York University, I am immersed in a dynamic learning environment that challenges me to explore the latest advancements in software development, artificial intelligence, and data science.
-</p>
+# Hi, I'm Yienisha 👋
+
+I'm a Software Engineer II at Scotiabank, building reliable backend systems with Java and Spring Boot. I enjoy working across the stack and I'm always looking to sharpen my craft with new tools and best practices.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- 🔭 Currently working on: *[project name]*
+- 🌱 Currently learning: *[technology/skill]*
+- 💬 Ask me about: *Java, Spring Boot, [other strengths]*
+- 📫 Reach me at: *[email or LinkedIn]*
+- ⚡ Fun fact: *[optional personal touch]*
 
   <p align="center">
     My academic journey has equipped me with a solid foundation in algorithms, data structures, and programming languages such as Java, Python & C. I thrive on solving complex problems and turning innovative ideas into tangible solutions.
